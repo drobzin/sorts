@@ -7,8 +7,6 @@ void main(List<String> arguments) {
   var listBool = [true,false,true,false,true];
   var list2 =[list, list];
   print(list);
-  /* selectionSort(list);
-  stringSelectionSort(string); */
   allSort(list);
   allSort(string);
   allSort(listString);
